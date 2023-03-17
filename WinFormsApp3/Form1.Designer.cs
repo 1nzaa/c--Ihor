@@ -54,7 +54,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Продаж";
             this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+
             // 
             // radioButton2
             // 
@@ -66,7 +66,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Купівля";
             this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+
             // 
             // textBox1
             // 
@@ -117,7 +117,7 @@
             this.label4.Size = new System.Drawing.Size(46, 15);
             this.label4.TabIndex = 7;
             this.label4.Text = "Гривня";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+
             // 
             // label5
             // 
@@ -127,7 +127,7 @@
             this.label5.Size = new System.Drawing.Size(49, 15);
             this.label5.TabIndex = 8;
             this.label5.Text = "Доллар";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
+
             // 
             // textBox3
             // 
@@ -151,7 +151,7 @@
             this.button1.TabIndex = 11;
             this.button1.Text = "Вихід";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+
             // 
             // button2
             // 

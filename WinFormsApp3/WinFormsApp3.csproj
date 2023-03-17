@@ -8,8 +8,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="D:\USERS\3kurs\ITN-B\Slobodyan\55555555555555555555.cs" Link="55555555555555555555.cs" />
-  </ItemGroup>
-
 </Project>
